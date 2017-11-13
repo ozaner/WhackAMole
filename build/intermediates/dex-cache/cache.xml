@@ -2,76 +2,58 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7596104afbcf64756eca1bdce272725340cb85a8">
-        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_94bea5bd3d8776a357c572482317afb581b91c89\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
-        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0-beta1_f4e245ccd4b489016076b327556a96d8ca984c74\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="23d564c059873f398dc5d967f56791a66472ce76">
-        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-beta1_85b2a72e6f469c6170e37f0a21af0fa2fe7a9fba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
-        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-beta1_ca993c176c051d24292944d140742a63190bd433\classes.dex" />
+        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1_ca993c176c051d24292944d140742a63190bd433.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="3c0208faf42864e6695345e64d1b955070263819">
-        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0-beta1_9c82be84072d627a4787baf5b2508000f3131530\classes.dex" />
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-beta1_f4e245ccd4b489016076b327556a96d8ca984c74.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
-        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-beta1_7a503851dbd7c8e0b3b82d367af2bf5dfb45128c\classes.dex" />
+        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-beta1_7a503851dbd7c8e0b3b82d367af2bf5dfb45128c.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1_85b2a72e6f469c6170e37f0a21af0fa2fe7a9fba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-beta1_9c82be84072d627a4787baf5b2508000f3131530.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
-        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0-beta1_6a7f665d25c43ad2b21531a0602f414851c9bc54\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d8e9256d0ee883620cd66417db40bc867178db72">
-        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4972b887a5685b3ce435ef7ee51cc047c49b1d5c\classes.dex" />
+        <dex dex="C:\Users\Weegee 64\Source Code\Android\WhackAMole\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-beta1_6a7f665d25c43ad2b21531a0602f414851c9bc54.jar" />
     </item>
 
 </items>

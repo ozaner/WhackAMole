@@ -22,7 +22,6 @@ import static hansha.android.whackamole.GameActivity.mp1;
 import static hansha.android.whackamole.GameActivity.mp2;
 import static hansha.android.whackamole.GameActivity.mp3;
 import static hansha.android.whackamole.GameActivity.mp4;
-import static java.lang.Thread.sleep;
 
 /**
  * Game View
@@ -37,7 +36,7 @@ public class GameView extends SurfaceView {
     private Mole mole = new Mole();
     private int score = 0;
     private int lives = 3;
-    private int time = 10;
+    private int time = 30;
     private int timeCounter = 0;
     private Activity a;
 
